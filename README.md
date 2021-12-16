@@ -1,6 +1,6 @@
 # Polygon Generator
 
-[Preview](preview.png)
+![Preview](preview.png)
 
 This is a simple polygon generator based on a text.
 

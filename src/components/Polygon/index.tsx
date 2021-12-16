@@ -39,6 +39,7 @@ function Polygon(props: IPolygon) {
 
   return (
     <svg
+      id="polygonResult"
       width={length * 2}
       height={length * 2}
       viewBox={`${length * -1} ${length * -1} ${length * 2} ${length * 2}`}

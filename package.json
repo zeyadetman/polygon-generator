@@ -1,5 +1,6 @@
 {
   "name": "polygon-generator",
+  "homepage": "https://zeyadetman.github.io/polygon-generator/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
